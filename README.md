@@ -3,8 +3,11 @@
 This repository contains exercises for the Deep Learning course. Each lab is structured as a separate project and includes necessary configurations and dependencies.
 
 ## 📌 Exercises
-- [Lab01 - Solution](Lab01/Solution.py)
-   - [Lab01 - PDF](Lab01/Lab01.pdf)
+- [Lab01 - PDF](Lab01/Lab01.pdf)
+   - [Lab01 - Solution](Lab01/Solution.py)
+- [Lab02 - PDF](Lab02/Lab02.pdf)
+   - [Lab02 - Solution - Task 1](Lab02/Solution1.py)
+   - [Lab02 - Solution - Task 2](Lab02/Solution1.py)
 
 ## 🚀 Getting Started
 ### Prerequisites
