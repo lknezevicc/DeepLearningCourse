@@ -5,9 +5,15 @@ This repository contains exercises for the Deep Learning course. Each lab is str
 ## 📌 Exercises
 - [Lab01 - PDF](Lab01/Lab01.pdf)
    - [Lab01 - Solution](Lab01/Solution.py)
+
 - [Lab02 - PDF](Lab02/Lab02.pdf)
    - [Lab02 - Solution - Task 1](Lab02/Solution1.py)
    - [Lab02 - Solution - Task 2](Lab02/Solution1.py)
+
+- [Lab03 - PDF](Lab03/Lab03.pdf)
+   - [Lab03 - Solution - Task 1](Lab03/Solution1.py)
+   - [Lab03 - Solution - Task 2](Lab03/Solution2.py)
+   - [Lab03 - Solution - Task 3](Lab03/Solution3.py)
 
 ## 🚀 Getting Started
 ### Prerequisites
