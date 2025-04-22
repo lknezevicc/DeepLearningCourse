@@ -15,6 +15,9 @@ This repository contains exercises for the Deep Learning course. Each lab is str
    - [Lab03 - Solution - Task 2](Lab03/Solution2.py)
    - [Lab03 - Solution - Task 3](Lab03/Solution3.py)
 
+- [Lab04 - PDF](Lab04/Lab04.pdf)
+   - [Lab04 - Solution](Lab04/Solution.py)
+
 ## 🚀 Getting Started
 ### Prerequisites
 Ensure you have the following installed:
