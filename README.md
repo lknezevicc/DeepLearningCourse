@@ -30,6 +30,14 @@ This repository contains exercises for the Deep Learning course. Each lab is str
    - [Lab07 - Model](Lab07/Model.py)
    - [Lab07 - Train](Lab07/Train.py)
 
+ - [Lab08 - PDF](Lab08/Lab08.pdf)
+   - [Lab08 - Model](Lab08/Model.py)
+   - [Lab08 - Train](Lab08/Train.py)
+  
+ - [Lab09 - PDF](Lab09/Lab09.pdf)
+   - [Lab09 - Model](Lab09/Model.py)
+   - [Lab09 - Train](Lab09/Train.py)
+
 ## 🚀 Getting Started
 ### Prerequisites
 Ensure you have the following installed:
